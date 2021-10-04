@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mo.</h1>
-<h3 align="center"I like building open source bots and self-hosted web apps.</h3>
+<h3 align="center">I like building open source bots and self-hosted web apps.</h3>
 <h1 align="center">
 
 <p align="center"> 
@@ -28,6 +28,6 @@
 </p>
 
 
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&card_width=500" alt="mbarmem" /></p>
+<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&card_width=500" alt="mbarmem" /></p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=github_dark&card_width=1000&hide_border=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=dracula&card_width=1000&hide_border=true" /></p>
