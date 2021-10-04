@@ -41,3 +41,7 @@
 <a href="https://github.com/Mbarmem/Grafana.Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbarmem&repo=Grafana.Dashboard&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
 </a>
+
+<a href="https://github.com/Mbarmem/MoTwitterBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbarmem&repo=MoTwitterBot&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
+</a>
