@@ -28,6 +28,6 @@
 </p>
 
 
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&card_width=500" alt="mbarmem" /></p>
+<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green&card_width=500" alt="mbarmem" /></p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=dracula&card_width=1000&hide_border=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=blue-green&card_width=1000&hide_border=true" /></p>
