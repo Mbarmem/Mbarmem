@@ -1,12 +1,14 @@
 
 [![Header](https://github.com/Mbarmem/Mbarmem/blob/main/Mo's%20Github.png "Header")](https://mownbox.com/)
 
-<h1 align="center">Hi 👋, I'm Mo.</h1>
-<h3 align="center">I like building open source bots and self-hosted web apps.</h3>
-<h1 align="center">
+<h1 align="center">Hello, folks! <img src="https://github.com/Mbarmem/Mbarmem/blob/main/wave.gif" width="30px"></h3>
+<h3 align="center">I'm Mo. I like building open source bots and self-hosted web apps.</h3>
 
+---
+
+<h1 align="center">
 <p align="center"> 
-  Visitor count<br>
+  Visitor's count<br>
   <img src="https://profile-counter.glitch.me/mbarmem/count.svg" />
 </p>
 
@@ -28,7 +30,10 @@
   </a>
 </p>
 
-
 <p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&card_width=500" alt="mbarmem" /></p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
+
+<a href="https://github.com/Mbarmem/Grafana.Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbarmem&repo=Grafana.Dashboard&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
+  </a></p>
