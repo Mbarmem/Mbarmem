@@ -30,10 +30,14 @@
   </a>
 </p>
 
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mbarmem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&card_width=500" alt="mbarmem" /></p>
-
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=mbarmem&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
-
+<a href="https://github.com/Mbarmem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbarmem&theme=chartreuse-dark&&langs_count=3&hide_border=true" />  
+</a>
+  
+<a href="https://github.com/Mbarmem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mbarmem&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true" alt="Mbarmem's GitHub Stats" />
+</a>
+  
 <a href="https://github.com/Mbarmem/Grafana.Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbarmem&repo=Grafana.Dashboard&layout=compact&theme=chartreuse-dark&card_width=1000&hide_border=true" />
-  </a></p>
+</a>
