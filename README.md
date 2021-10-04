@@ -31,7 +31,7 @@
 </p>
 
 <a href="https://github.com/Mbarmem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbarmem&theme=chartreuse-dark&&langs_count=3&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbarmem&theme=chartreuse-dark&langs_count=3&hide_border=true" />  
 </a>
   
 <a href="https://github.com/Mbarmem">
